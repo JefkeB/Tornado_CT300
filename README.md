@@ -1,5 +1,8 @@
 # Tornado_CT300
-Tornado Cloud Traveler CT300
+Tornado Cloud Traveler CT300  
+aka  
+PTI-7011N iDEA+ (Paradigm Technology)  
+
 
 ![Image](pictures/image.jpg)
 
